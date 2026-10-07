@@ -1,0 +1,589 @@
+<!-- ===================================================
+     UNP TOURS: ULTIMATE LUXURY ZANZIBAR FOOTER (FINAL V6)
+     =================================================== -->
+
+<footer class="unp-luxury-footer" role="contentinfo" id="footer">
+  <div class="footer-container">
+    
+    <!-- 1. BRAND STORY & HUMAN TOUCH TOP BANNER -->
+    <div class="footer-brand-story-banner">
+      <div class="founder-avatar-container">
+        <!-- Badilisha njia ya picha iendane na folda yako (mfano: assets/images/fe-brook.jpg) -->
+        <img src="assets/images/fe-brook.jpg" alt="Fe Brook Irie - Founder, CEO & Lead Guide, UNP Tours" class="founder-avatar-img" />
+      </div>
+      <div class="story-badge">
+        <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+        <span>Born in Nungwi • Crafted for Royalty</span>
+      </div>
+      <p class="story-quote">
+        "Sharing Zanzibar's magic with the world—one unforgettable journey at a time."
+      </p>
+      <div class="founder-signature-box">
+        <span class="founder-name">Fe Brook Irie</span>
+        <span class="founder-title">Founder, CEO & Lead Guide &bull; Nungwi, Zanzibar</span>
+      </div>
+    </div>
+
+    <!-- 2. SAFEGUARDED DETECT LINK BOX -->
+    <div class="footer-detect-link-box">
+      <div class="detect-badge">
+        <svg aria-hidden="true" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:inline; vertical-align:-1px; margin-right:4px;"><circle cx="12" cy="12" r="10"/><polygon points="12 6 12 12 16 14"/></svg>
+        Exclusive Island Access
+      </div>
+      <h3 class="detect-title">Explore All 15+ Zanzibar Experiences</h3>
+      <p class="detect-desc" id="detectDescText">View our complete collection in your language and unlock 15% OFF your first booking.</p>
+      
+      <a href="pages/services.html" class="detect-action-btn">
+        <span>View All Services & Special Offers</span>
+        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+      
+      <div class="detect-languages-meta">
+        <span>Trusted by 5,000+ Travelers &bull; Available in: </span>
+        <span class="langs-list">English | Kiswahili | Deutsch | Français | Italiano | Español</span>
+      </div>
+    </div>
+
+    <!-- 3. FIVE-COLUMN ARCHITECTURE -->
+    <div class="footer-grid-columns">
+      
+      <!-- Safu 1: About UNP Tours -->
+      <div class="footer-column" data-accordion-group>
+        <button type="button" class="footer-col-toggle" aria-expanded="false" aria-controls="footerAbout">
+          <span class="footer-col-title">About UNP Tours</span>
+          <span class="toggle-icon" aria-hidden="true">+</span>
+        </button>
+        <ul class="footer-links-list" id="footerAbout" role="list">
+          <li><a href="pages/about.html">Our Nungwi Story</a></li>
+          <li><a href="pages/team.html">Meet Our Local Guides</a></li>
+          <li><a href="pages/reviews.html">Guest Reviews</a></li>
+          <li><a href="pages/awards.html">Awards & Recognition</a></li>
+          <li><a href="pages/sustainability.html">Eco & Sustainability</a></li>
+          <li><a href="pages/safeguarding.html">Safeguarding Policy</a></li>
+          <li><a href="pages/privacy.html">Privacy & Data Protection</a></li>
+          <li><a href="pages/careers.html">Tour Guide Careers</a></li>
+          <li><a href="pages/press.html">Press & Media Kit</a></li>
+          <li><a href="pages/contact.html">Contact & Location</a></li>
+        </ul>
+      </div>
+
+      <!-- Safu 2: Booking & Payments -->
+      <div class="footer-column" data-accordion-group>
+        <button type="button" class="footer-col-toggle" aria-expanded="false" aria-controls="footerBooking">
+          <span class="footer-col-title">Booking & Payments</span>
+          <span class="toggle-icon" aria-hidden="true">+</span>
+        </button>
+        <ul class="footer-links-list" id="footerBooking" role="list">
+          <li><a href="pages/how-to-book.html">How to Book</a></li>
+          <li><a href="pages/payment-methods.html">Payment Methods</a></li>
+          <li><a href="pages/deposit-policy.html">Deposit & Balance Policy</a></li>
+          <li><a href="pages/cancellation.html">Cancellation Policy</a></li>
+          <li><a href="pages/refund.html">Refund Policy</a></li>
+          <li><a href="pages/insurance.html">Travel Insurance</a></li>
+          <li><a href="pages/currency.html">Currency & Exchange</a></li>
+          <li><a href="pages/group-discounts.html">Group Discounts</a></li>
+          <li><a href="pages/corporate.html">Corporate & MICE</a></li>
+          <li><a href="pages/gift-vouchers.html">Gift Vouchers</a></li>
+        </ul>
+      </div>
+
+      <!-- Safu 3: Partner With Us -->
+      <div class="footer-column" data-accordion-group>
+        <button type="button" class="footer-col-toggle" aria-expanded="false" aria-controls="footerPartner">
+          <span class="footer-col-title">Partner With Us</span>
+          <span class="toggle-icon" aria-hidden="true">+</span>
+        </button>
+        <ul class="footer-links-list" id="footerPartner" role="list">
+          <li><a href="pages/why-partner.html">Why Partner with UNP?</a></li>
+          <li><a href="pages/hotels.html">Hotel & Resort Partnerships</a></li>
+          <li><a href="pages/agencies.html">International Travel Agencies</a></li>
+          <li><a href="pages/affiliate.html">Affiliate & Commission</a></li>
+          <li><a href="pages/b2b-login.html">B2B Agent Portal</a></li>
+          <li><a href="pages/white-label.html">White Label Solutions</a></li>
+          <li><a href="pages/net-rates.html">Net Rates & Commission</a></li>
+          <li><a href="pages/fam-trips.html">FAM Trips</a></li>
+          <li><a href="pages/contracts.html">Contract Templates</a></li>
+          <li><a href="pages/partner-support.html">Partner Support</a></li>
+        </ul>
+      </div>
+
+      <!-- Safu 4: Help & Support -->
+      <div class="footer-column" data-accordion-group>
+        <button type="button" class="footer-col-toggle" aria-expanded="false" aria-controls="footerHelp">
+          <span class="footer-col-title">Help & Support</span>
+          <span class="toggle-icon" aria-hidden="true">+</span>
+        </button>
+        <ul class="footer-links-list" id="footerHelp" role="list">
+          <li><a href="pages/faq.html">FAQ</a></li>
+          <li><a href="pages/live-chat.html">Live Chat Support</a></li>
+          <li><a href="pages/emergency.html">24/7 Emergency</a></li>
+          <li><a href="pages/visa.html">Visa & Entry</a></li>
+          <li><a href="pages/health.html">Health & Vaccination</a></li>
+          <li><a href="pages/travel-tips.html">Travel Tips</a></li>
+          <li><a href="pages/accessibility.html">Accessibility</a></li>
+          <li><a href="pages/complaints.html">Complaint Form</a></li>
+          <li><a href="pages/lost-found.html">Lost & Found</a></li>
+          <li><a href="pages/terms.html">Terms & Conditions</a></li>
+        </ul>
+      </div>
+
+      <!-- Safu 5: Connect & Resources (Viungo 12 - Zina footer-connect-column) -->
+      <div class="footer-column footer-connect-column" data-accordion-group>
+        <button type="button" class="footer-col-toggle" aria-expanded="false" aria-controls="footerConnect">
+          <span class="footer-col-title">Connect & Resources</span>
+          <span class="toggle-icon" aria-hidden="true">+</span>
+        </button>
+        <div id="footerConnect" class="footer-services-content">
+          <ul class="footer-twelve-links" role="list">
+            <!-- Social 4 -->
+            <li><a href="https://facebook.com/unptours" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+            <li><a href="https://instagram.com/unptours" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+            <li><a href="https://tiktok.com/@unptours" target="_blank" rel="noopener noreferrer">TikTok</a></li>
+            <li><a href="https://wa.me/255655728982" target="_blank" rel="noopener noreferrer">WhatsApp Business</a></li>
+            <!-- PWA 3 -->
+            <li><a href="#" id="installAppBtn">Install UNP Tours App</a></li>
+            <li><a href="pages/pwa-guide.html">How to Install</a></li>
+            <li><a href="pages/offline-guide.html">Offline Travel Guide</a></li>
+            <!-- Legal 3 -->
+            <li><a href="pages/privacy.html">Privacy Policy</a></li>
+            <li><a href="pages/terms.html">Terms of Use</a></li>
+            <li><a href="pages/cookies.html">Cookies Policy</a></li>
+            <!-- Ziada 2 -->
+            <li><a href="pages/newsletter.html">Newsletter Signup</a></li>
+            <li><a href="pages/careers.html">Careers & Jobs</a></li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-divider" aria-hidden="true"></div>
+
+    <!-- 4. BOTTOM COPYRIGHT & ZANZIBAR SIGNATURE -->
+    <div class="footer-bottom-section">
+      <div class="footer-copyright-box">
+        <p class="brand-sign">
+          <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:inline; vertical-align:-2px; margin-right:6px; color:#D4AF37;"><path d="M2 12h20M2 12l5-8h10l5 8M2 12v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-7"/></svg>
+          UNP Tours <span class="zanzibar-tag">(unp.tours)</span>
+        </p>
+        <p>&copy; <span id="currentYear">2026</span> UNP Tours &mdash; Nungwi, Zanzibar. All rights reserved.</p>
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+<!-- LUXURY STYLING (CSS) -->
+<style>
+  .unp-luxury-footer {
+    background: linear-gradient(180deg, #0B132B 0%, #040814 100%);
+    border-top: 1px solid rgba(212, 175, 55, 0.35);
+    color: #FFFFFF;
+    padding: 5rem 1.5rem 2.5rem;
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .unp-luxury-footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 600px;
+    height: 150px;
+    background: radial-gradient(ellipse at center, rgba(212, 175, 55, 0.08) 0%, rgba(11, 19, 43, 0) 70%);
+    pointer-events: none;
+  }
+
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+  }
+
+  /* Brand Story Banner & Founder Avatar */
+  .footer-brand-story-banner {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 3.5rem;
+    padding: 2.5rem 2rem 2.2rem;
+    background: rgba(28, 37, 65, 0.85);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 12px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+    position: relative;
+  }
+
+  .founder-avatar-container {
+    width: 75px;
+    height: 75px;
+    margin: 0 auto -20px auto;
+    position: relative;
+    top: -45px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #D4AF37;
+    box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4);
+    background: #0B132B;
+  }
+
+  .founder-avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .story-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #D4AF37;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 0.6rem;
+    background: rgba(212, 175, 55, 0.1);
+    padding: 5px 12px;
+    border-radius: 20px;
+  }
+
+  .story-quote {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    color: #F8FAFC;
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+
+  .founder-signature-box {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .founder-name {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #D4AF37;
+    letter-spacing: 0.04em;
+    font-family: 'Playfair Display', serif;
+  }
+
+  .founder-title {
+    font-size: 0.75rem;
+    color: #94A3B8;
+  }
+
+  /* Detect Link Box (Luxury Style) */
+  .footer-detect-link-box {
+    background: linear-gradient(135deg, rgba(28, 37, 65, 0.9) 0%, rgba(11, 19, 43, 0.95) 100%);
+    border: 1px solid rgba(212, 175, 55, 0.4);
+    border-radius: 12px;
+    padding: 2.5rem;
+    margin-bottom: 3.5rem;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  }
+
+  .detect-badge {
+    display: inline-block;
+    color: #D4AF37;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.75rem;
+  }
+
+  .detect-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+
+  .detect-desc {
+    font-size: 0.95rem;
+    color: #94A3B8;
+    margin-bottom: 1.5rem;
+  }
+
+  .detect-action-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: linear-gradient(135deg, #D4AF37 0%, #aa8c2c 100%);
+    color: #0B132B;
+    text-decoration: none;
+    padding: 14px 30px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
+  }
+
+  .detect-action-btn:hover {
+    background: linear-gradient(135deg, #e6c547 0%, #D4AF37 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
+  }
+
+  .detect-languages-meta {
+    margin-top: 15px;
+    font-size: 0.78rem;
+    color: #64748B;
+  }
+
+  .detect-languages-meta .langs-list {
+    color: #D4AF37;
+  }
+
+  /* Grid Columns */
+  .footer-grid-columns {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2.5rem;
+    margin-bottom: 3rem;
+  }
+
+  .footer-column {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .footer-col-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #D4AF37;
+    letter-spacing: 0.03em;
+  }
+
+  .footer-col-toggle {
+    background: none;
+    border: none;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    cursor: pointer;
+    padding: 0;
+  }
+
+  .toggle-icon {
+    display: none;
+    font-size: 1.25rem;
+    color: #D4AF37;
+    font-weight: 700;
+    transition: transform 0.3s ease;
+  }
+
+  .footer-links-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .footer-links-list a, .footer-twelve-links a {
+    color: #94A3B8;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+    display: inline-block;
+  }
+
+  .footer-links-list a:hover, .footer-twelve-links a:hover {
+    color: #D4AF37;
+    transform: translateX(4px);
+  }
+
+  .footer-links-list a:focus-visible, .footer-twelve-links a:focus-visible {
+    color: #D4AF37;
+    outline: 2px solid #D4AF37;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  .footer-twelve-links {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px 15px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-divider {
+    height: 1px;
+    background: linear-gradient(90deg, rgba(212,175,55,0) 0%, rgba(212,175,55,0.3) 50%, rgba(212,175,55,0) 100%);
+    width: 100%;
+    margin: 2.5rem 0;
+  }
+
+  .footer-bottom-section {
+    text-align: center;
+  }
+
+  .footer-copyright-box {
+    color: #8D99AE;
+    font-size: 0.85rem;
+    line-height: 1.6;
+  }
+
+  .brand-sign {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    margin-bottom: 0.3rem;
+  }
+
+  .zanzibar-tag {
+    color: #D4AF37;
+    font-weight: 400;
+    font-size: 0.9rem;
+  }
+
+  /* Mobile Accordion Styles & Fixes */
+  @media (max-width: 768px) {
+    .unp-luxury-footer {
+      padding: 3rem 1rem 2rem;
+    }
+    .unp-luxury-footer::before {
+      width: 300px;
+      height: 100px;
+    }
+    .toggle-icon {
+      display: inline-block;
+    }
+    .footer-grid-columns {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+    /* Selector sahihi ya CSS isiyoathiri safu ya Connect */
+    .footer-column:not(.footer-connect-column) .footer-links-list {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.4s ease, padding 0.3s ease;
+    }
+    .footer-column.is-expanded .footer-services-content,
+    .footer-column.is-expanded .footer-links-list {
+      max-height: 650px;
+      padding-top: 0.75rem;
+    }
+    .footer-column.is-expanded .toggle-icon {
+      transform: rotate(45deg);
+    }
+    .footer-twelve-links {
+      grid-template-columns: 1fr;
+    }
+    .footer-brand-story-banner {
+      padding: 1.5rem 1rem;
+      margin-top: 3.5rem;
+    }
+    .founder-avatar-container {
+      top: -35px;
+    }
+    .footer-detect-link-box {
+      padding: 1.5rem 1rem;
+    }
+  }
+</style>
+
+<!-- LUXURY LOGIC (JAVASCRIPT - COMPLETE & SECURE) -->
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    // 1. Mwaka otomatiki
+    const yearEl = document.getElementById("currentYear");
+    if (yearEl) {
+      yearEl.textContent = new Date().getFullYear();
+    }
+
+    // 2. Utambuzi wa lugha (Detect Link)
+    function getCurrentLang() {
+      const siteLang = localStorage.getItem("unp_lang");
+      if (siteLang) return siteLang.substring(0, 2).toLowerCase();
+
+      const navLang = navigator.language || navigator.userLanguage || "en";
+      return navLang.substring(0, 2).toLowerCase();
+    }
+
+    let langCode = getCurrentLang();
+
+    const descriptions = {
+      sw: "Tazama mkusanyiko wetu kamili kwa lugha yako na upate punguzo la 15%",
+      de: "Entdecken Sie unsere vollständige Sammlung in Ihrer Sprache und sichern Sie sich 15% Rabatt",
+      fr: "Découvrez notre collection complète dans votre langue et obtenez 15% de réduction",
+      it: "Scopri la nostra collezione completa nella tua lingua e ricevi il 15% di sconto",
+      es: "Explora nuestra colección completa en tu idioma y obtén un 15% de descuento",
+      en: "View our complete collection in your language and unlock 15% OFF your first booking."
+    };
+
+    function updateTexts() {
+      const detectDesc = document.getElementById("detectDescText");
+      if (detectDesc) {
+        detectDesc.textContent = descriptions[langCode] || descriptions["en"];
+      }
+    }
+
+    updateTexts();
+
+    window.addEventListener("languageChanged", (e) => {
+      if (e.detail && e.detail.lang) {
+        langCode = e.detail.lang.substring(0, 2).toLowerCase();
+        updateTexts();
+      }
+    });
+
+    // 3. PWA Install App Logic
+    let deferredPrompt;
+    window.addEventListener("beforeinstallprompt", (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+    });
+
+    const installAppBtn = document.getElementById("installAppBtn");
+    if (installAppBtn) {
+      installAppBtn.addEventListener("click", async (e) => {
+        e.preventDefault();
+        if (deferredPrompt) {
+          deferredPrompt.prompt();
+          const { outcome } = await deferredPrompt.userChoice;
+          if (outcome === "accepted") {
+            deferredPrompt = null;
+          }
+        } else {
+          window.location.href = "pages/pwa-guide.html";
+        }
+      });
+    }
+
+    // 4. Mobile Accordion Logic & Desktop State Check (Completed)
+    const accordionGroups = document.querySelectorAll(".unp-luxury-footer [data-accordion-group]");
+    
+    function checkDesktopState() {
+      if (window.innerWidth > 768) {
+        accordionGroups.forEach(group => {
+          group.classList.remove("is-expanded");
+          group.querySelector(".footer-col-toggle")?.setAttribute("aria-expanded", "false");
+        });
+      }
+    }
+
+    checkDesktopState();
+
+    accordionGroups.forEach(group => {
+      const toggleBtn = group.querySelector(".footer-col-toggle");
+      if (!toggle
